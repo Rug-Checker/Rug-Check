@@ -1,0 +1,2 @@
+# Rug-Check
+Rug Checker

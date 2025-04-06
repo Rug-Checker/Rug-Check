@@ -1,11 +1,11 @@
 <div align="center">
   
-## **Rug Pull Checker** | **Solana Token Scanner** 
+## **Rug Pull Checker** | **Solana Token Scanner** | **MemeCoin Checker** 💷💰
   
 </div>
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/CoRJMqiurPc/hq720.jpg" width="500" height="300" />
+<img src="https://i.ytimg.com/vi/CoRJMqiurPc/hq720.jpg" width="800" height="300" />
 </div>
 
 **Rug Pull Detector** is a powerful, fully standalone desktop application built for one purpose: **protecting you from losing money in crypto**.
